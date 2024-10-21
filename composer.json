@@ -1,5 +1,5 @@
 {
-    "name": "jiten14/jitone-ai",
+    "name": "ted81das/jitone-ai",
     "description": "jitone-ai is a powerful FilamentPHP plugin that integrates AI-powered features directly into your Filament forms.",
     "keywords": [
         "jiten14",
@@ -11,10 +11,10 @@
         "ai-image-generation",
         "ai-content-generation"
     ],
-    "homepage": "https://github.com/jiten14/jitone-ai",
+    "homepage": "https://github.com/ted81das/jitone-ai",
     "support": {
-        "issues": "https://github.com/jiten14/jitone-ai/issues",
-        "source": "https://github.com/jiten14/jitone-ai"
+        "issues": "https://github.com/ted81das/jitone-ai/issues",
+        "source": "https://github.com/ted81das/jitone-ai"
     },
     "license": "MIT",
     "authors": [
@@ -29,7 +29,7 @@
         "filament/filament": "^3.2",
         "filament/forms": "^3.0",
         "spatie/laravel-package-tools": "^1.15.0",
-        "openai-php/laravel": "^0.8.1"
+        "openai-php/laravel": "^0.10.1"
     },
     "require-dev": {
         "nunomaduro/collision": "^7.9",
